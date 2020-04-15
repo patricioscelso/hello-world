@@ -1,0 +1,4 @@
+1) Variables: Son lugares reservados en la memoria, que luego podes llenar con datos.
+2) Strings: Cadena de caracteres, son variables que pueden contener palabras.
+3) Funciones: procedimientos que hemos armado previamente que puede o no recibir datos en forma de argumentos y pueden o no devolver un valor. Deben ser invocadas o llamadas.
+4) Valores booleanos: Son un "tipo" de variables que pueden devolver solo dos resultados, true (verdadero) o false (falso).
