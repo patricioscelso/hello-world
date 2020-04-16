@@ -1,0 +1,4 @@
+1) for: el for es un comando de bucle, que se puede utilizar cuando tenermos que hacer una accion X cantidad de veces y no queremos repetir codigo.
+2) &&, ||, !: el primero es el simbolo doble ampersan que es la operacion logica 'and', se utiliza para crear condiciones dobles, por ejemplo que se cumpla X condicion "Y" Z condicion.
+		: el segundo es la operacion logica 'or', se utiliza para crear condiciones en la que si se cumple cualq condicion simple, se cumple la condicion valga la redundancia. Por ejemplo si se cumple la condicion X "o" Y retornara el true.
+		: por ultimo ! es el simbolo de negacion, se utiliza para decir por ejemplo if (2 + 2 != 5)----> true.
